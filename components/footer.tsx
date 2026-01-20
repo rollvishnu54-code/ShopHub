@@ -13,7 +13,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">ShopHub</h3>
             <p className="text-sm text-muted-foreground">
-              Your one-stop shop for premium products. Quality guaranteed.
+              Your one-stop shop for premium products. Quality guaranteed!!!
             </p>
             <div className="flex space-x-4">
               <Link
